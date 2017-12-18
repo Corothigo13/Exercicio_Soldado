@@ -1,0 +1,12 @@
+C:\Users\Thiago\Desktop\Exercicio Soldado\Exercicio Soldado\obj\Debug\Exercicio Soldado.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Desktop\Exercicio Soldado\Exercicio Soldado\bin\Debug\Exercicio Soldado.exe.config
+C:\Users\Thiago\Desktop\Exercicio Soldado\Exercicio Soldado\bin\Debug\Exercicio Soldado.exe
+C:\Users\Thiago\Desktop\Exercicio Soldado\Exercicio Soldado\bin\Debug\Exercicio Soldado.pdb
+C:\Users\Thiago\Desktop\Exercicio Soldado\Exercicio Soldado\obj\Debug\Exercicio Soldado.exe
+C:\Users\Thiago\Desktop\Exercicio Soldado\Exercicio Soldado\obj\Debug\Exercicio Soldado.pdb
+C:\Users\Thiago\Desktop\Exercicos POO\Exercicio Soldado\Exercicio Soldado\bin\Debug\Exercicio Soldado.exe.config
+C:\Users\Thiago\Desktop\Exercicos POO\Exercicio Soldado\Exercicio Soldado\bin\Debug\Exercicio Soldado.exe
+C:\Users\Thiago\Desktop\Exercicos POO\Exercicio Soldado\Exercicio Soldado\bin\Debug\Exercicio Soldado.pdb
+C:\Users\Thiago\Desktop\Exercicos POO\Exercicio Soldado\Exercicio Soldado\obj\Debug\Exercicio Soldado.csprojResolveAssemblyReference.cache
+C:\Users\Thiago\Desktop\Exercicos POO\Exercicio Soldado\Exercicio Soldado\obj\Debug\Exercicio Soldado.exe
+C:\Users\Thiago\Desktop\Exercicos POO\Exercicio Soldado\Exercicio Soldado\obj\Debug\Exercicio Soldado.pdb
